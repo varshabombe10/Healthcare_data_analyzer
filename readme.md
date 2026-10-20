@@ -253,7 +253,7 @@ http://127.0.0.1:8000/
 
 ## 👨‍💻 Author
 
-**Atharv**  
+**Varsha Bombe**  
 IT Engineer | Backend Developer  
 Django • Data Analytics • AI Systems  
 
